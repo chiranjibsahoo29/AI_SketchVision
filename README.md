@@ -1,5 +1,5 @@
 # 🎨 AI SketchVision — Smart Drawing Board
-
+  
 **Draw with your hand. Let AI recognize your sketch and display a real image!**
 
 AI SketchVision is an AI-powered, gesture-controlled drawing application built with Python, OpenCV, MediaPipe, and TensorFlow. It allows users to draw in the air using hand gestures, classify their sketches using a Convolutional Neural Network (CNN), and display a corresponding real image from a local image library.
